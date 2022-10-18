@@ -1,2 +1,0 @@
-# gitclass
-Learning GIT
